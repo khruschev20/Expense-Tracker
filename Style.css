@@ -11,12 +11,6 @@ body {
     background-size:cover;
 }
 
-@media screen and (max-width: 768px) {
-    body {
-        background-size: contain;
-    }
-}
-
 .title {
     width: 500px;
     /*color:#0869A6;*/
